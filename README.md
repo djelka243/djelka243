@@ -1,4 +1,4 @@
-# 💫 A propo de Moi:
+# 💫 A propos de Moi:
 
 Je m'appelle Jessy Djonga, je suis licensié en informatique et passionné par ce domaine. J'ai plusieurs années d'expérience, ce qui m'a permis de développer des connaissances solide dans ce domaine.
 
