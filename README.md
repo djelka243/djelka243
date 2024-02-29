@@ -1,8 +1,8 @@
 # 💫 A propos de Moi:
 
-Je m'appelle Jessy Djonga, je suis licensié en informatique et passionné par ce domaine. J'ai plusieurs années d'expérience, ce qui m'a permis de développer des connaissances solide dans ce domaine.
+Je m'appelle [Jessy Djonga](https://jessydjonga.com), je suis titulaire d'une licence en informatique et passionné par ce domaine. Fort de plusieurs années d'expérience, j'ai acquis des connaissances solides dans ce domaine.
 
-Au fil des ans, j'ai eu l'opportunité de travailler sur de nombreux projets passionnants avec différentes téchnologies, Mon objectif principal est de créer des solutions innovantes et efficaces qui répondent aux besoins de mes clients et qui offrent une expérience utilisateur exceptionnelle.
+Au fil des ans, j'ai eu l'opportunité de travailler sur de nombreux projets passionnants impliquant différentes technologies. Mon objectif principal est de créer des solutions innovantes et efficaces qui répondent aux besoins de mes clients et offrent une expérience utilisateur exceptionnelle.
 
 Je suis toujours ouvert aux nouvelles opportunités de collaboration et de développement professionnel. N'hésitez pas à me contacter si vous souhaitez discuter de projets passionnants ou explorer des possibilités de collaboration.
 
